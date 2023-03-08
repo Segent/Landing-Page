@@ -1,0 +1,24 @@
+* {
+    background-color: #1F2937;
+}
+
+.menu-container {
+    color: white;
+}
+
+.header-logo {
+    font-weight: bold;
+}
+
+.header-link-one, .header-link-two, .header-link-three {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.mid-section {
+    background-color: white;
+}
+
+.sec-mid-section {
+    background-color: gray;
+}
